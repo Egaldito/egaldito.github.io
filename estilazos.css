@@ -7,9 +7,14 @@
     margin: 0;
     padding: 0;
     text-decoration: none;
-    
+   
+  
 }
 
+.contenido-banner{
+    z-index: 20;
+    background-color: #000000;
+}
 
 .inicio video {
     position: absolute;
@@ -19,7 +24,6 @@
     height: 100%;
     object-fit: cover;
     z-index: -1;
-    background-color: #000000;
 }
 
 html {

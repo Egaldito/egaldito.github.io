@@ -8,6 +8,9 @@
     text-decoration: none;
     
 
+* {
+    border: 0px solid red;
+ }
     
 }
 .inicio video {

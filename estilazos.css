@@ -7,17 +7,9 @@
     margin: 0;
     padding: 0;
     text-decoration: none;
-    background-color: #000000;
-
-
-
+    
 }
-* {
-    
-    background-color: #000000;
-    z-index: 10;
-    
- }
+
 
 .inicio video {
     position: absolute;
@@ -27,6 +19,7 @@
     height: 100%;
     object-fit: cover;
     z-index: -1;
+    background-color: #000000;
 }
 
 html {
